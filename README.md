@@ -3,7 +3,7 @@ This repository showcases projects completed througout the duration of the CS300
 
 The public repository contianing the README.md files for all projects can be found at the following link: [CS300 Projects](https://github.com/sierrareschke/Java-CS300-projects-READMEs)
 
-Included below are the private repositories for each completed project. For an access token to access the links, please email sierrareschke@gmail.com.
+Included below are the private repositories for each completed project. For an access token to access the links, please reach out to me at sierrareschke@gmail.com.
 
 ## Projects
 - [Project 1](https://github.com/sierrareschke/Java-CS300-p01/): Course Enrollment System
