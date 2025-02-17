@@ -1,9 +1,9 @@
 # Java Programming II Course Projects
 This repository showcases projects completed througout the duration of the CS300 Java Programming II course at the University of Wisconsin-Madison in Fall 2023. These projects reinforced best practices in software design, debugging, and testing, developing skills in problem-solving, modular programming, and real-world application development. 
 
-The public repository contianing the README.md files for all projects can be found at the following link: [CS300 Projects](https://github.com/sierrareschke/Java-CS300-projects-READMEs)
+The public repository containing the README.md files for all projects can be found at the following link: [CS300 Projects](https://github.com/sierrareschke/Java-CS300-projects-READMEs)
 
-Included below are the private repositories for each completed project. For an access token to access the links, please reach out to me at sierrareschke@gmail.com.
+Included below are the private repositories for each completed project. **For an access token to access the links, please reach out to me at sierrareschke@gmail.com.**
 
 ## Projects
 - [Project 1](https://github.com/sierrareschke/Java-CS300-p01/): Course Enrollment System
