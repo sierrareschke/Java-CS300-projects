@@ -1,5 +1,5 @@
 # Java Programming II Course Projects
-This repository showcases projects completed througout the duration of the CS300 Java Programming II course at the University of Wisconsin-Madison in Fall 2023. 
+This repository showcases projects completed througout the duration of the CS300 Java Programming II course at the University of Wisconsin-Madison in Fall 2023. These projects reinforced best practices in software design, debugging, and testing, developing skills in problem-solving, modular programming, and real-world application development.
 
 Please see the repositories below for each completed project.
 
